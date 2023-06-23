@@ -1,0 +1,35 @@
+.item {
+    border-radius: 50%;
+    text-overflow: clip;
+    text-align: center;
+    overflow: hidden;
+}
+.img-c{
+    object-fit: contain;
+}
+
+.sss{
+    background-color: blue;
+    text-align: center;
+}
+
+.ttt{
+    border-radius: 10px;
+    color: aqua;
+    background-color: blueviolet;
+    margin-left: 10px;
+}
+
+
+.item-test{
+    height: 600px;
+}
+
+.image{
+    object-fit: contain;
+}
+
+.arrow{
+    color: aqua;
+    background-color: aqua;
+}
